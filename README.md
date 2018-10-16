@@ -4,7 +4,7 @@ Find all materials for the course here.
 ## Course Materials
 - [Day 1](https://github.com/KonstanzPythonSchool/day_01) Basics / Programming
 - [Day 2](https://github.com/KonstanzPythonSchool/day_02) Functions / Modules
-- Day 3 Computation / Visualisation
+- [Day 3](https://github.com/KonstanzPythonSchool/day_03) Computation / Visualisation
 - Day 4
 - Day 5
 
