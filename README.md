@@ -13,7 +13,7 @@ In this repositories you will find the solutions for the assignments on the next
 - [Assignment 0](https://github.com/KonstanzPythonSchool/assignment_00) Classroom: https://classroom.github.com/a/9FdCJCQ7
 - [Assignment 1](https://github.com/KonstanzPythonSchool/assignment_01) Classroom: https://classroom.github.com/a/OHj7MZLY
 - [Assignment 2](https://github.com/KonstanzPythonSchool/assignment_02) Classroom: https://classroom.github.com/a/MOqrx5vr
-- Assignment 3
+- [Assignment 3](https://github.com/KonstanzPythonSchool/assignment_03) Classroom: https://classroom.github.com/a/t86rKz9Q
 - Assignment 4
 
 ## Tutorials
