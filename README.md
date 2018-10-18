@@ -6,7 +6,7 @@ Find all materials for the course here.
 - [Day 2](https://github.com/KonstanzPythonSchool/day_02) Functions / Modules
 - [Day 3](https://github.com/KonstanzPythonSchool/day_03) Computation / Visualisation
 - [Day 4](https://github.com/KonstanzPythonSchool/day_04) Classes (Objects)
-- Day 5
+- [Day 5(https://github.com/KonstanzPythonSchool/day_05) Data streaming and parsing
 
 ## Assignments
 In this repositories you will find the solutions for the assignments on the next day.
