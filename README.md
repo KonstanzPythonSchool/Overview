@@ -5,16 +5,16 @@ Find all materials for the course here.
 - [Day 1](https://github.com/KonstanzPythonSchool/day_01) Basics / Programming
 - [Day 2](https://github.com/KonstanzPythonSchool/day_02) Functions / Modules
 - [Day 3](https://github.com/KonstanzPythonSchool/day_03) Computation / Visualisation
-- [Day 4](https://github.com/KonstanzPythonSchool/day_04)
+- [Day 4](https://github.com/KonstanzPythonSchool/day_04) Classes (Objects)
 - Day 5
 
 ## Assignments
 In this repositories you will find the solutions for the assignments on the next day.
-- [Assignment 0](https://github.com/KonstanzPythonSchool/assignment_00) Classroom: https://classroom.github.com/a/9FdCJCQ7
-- [Assignment 1](https://github.com/KonstanzPythonSchool/assignment_01) Classroom: https://classroom.github.com/a/OHj7MZLY
-- [Assignment 2](https://github.com/KonstanzPythonSchool/assignment_02) Classroom: https://classroom.github.com/a/MOqrx5vr
-- [Assignment 3](https://github.com/KonstanzPythonSchool/assignment_03) Classroom: https://classroom.github.com/a/t86rKz9Q
-- Assignment 4
+- [Assignment 0](https://github.com/KonstanzPythonSchool/assignment_00) | [Classroom](https://classroom.github.com/a/9FdCJCQ7)
+- [Assignment 1](https://github.com/KonstanzPythonSchool/assignment_01) | [Classroom](https://classroom.github.com/a/OHj7MZLY)
+- [Assignment 2](https://github.com/KonstanzPythonSchool/assignment_02) | [Classroom](https://classroom.github.com/a/MOqrx5vr)
+- [Assignment 3](https://github.com/KonstanzPythonSchool/assignment_03) | [Classroom](https://classroom.github.com/a/t86rKz9Q)
+- [Assignment 4](https://github.com/KonstanzPythonSchool/assignment_04) | [Classroom](https://classroom.github.com/a/wiN728wA)
 
 ## Tutorials
 You can proceed in learning python by simply do more python tutorials. Here is a very short list of web sites where you can find tutorials. Depending on you prefered way of learning, you will find introduction to python on [youtube](https://www.youtube.com/results?search_query=python) as well.
