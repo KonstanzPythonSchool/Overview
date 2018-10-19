@@ -33,3 +33,6 @@ Due to the large amount of python users, a very large number of python modules a
 * [Modules for finance](https://www.linkedin.com/pulse/best-python-librariespackages-finance-financial-data-majid-aliakbar)
 * [Module for bio-informatics](http://biopython.org/)
 * [Modules for data science](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
+
+## Other Links
+* [re3data - Find research data base](https://www.re3data.org/)
