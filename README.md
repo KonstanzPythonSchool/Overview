@@ -26,15 +26,16 @@ You can proceed in learning python by simply do more python tutorials. Here is a
 * [German Tutorial](https://py-tutorial-de.readthedocs.io/de/python-3.3/)
 
 ## Use python packages/modules
-Due to the large amount of python users, a very large number of python modules are available free of charge on the web. We will use some of them already during the course (numpy, scipy, pandas, matplotlib). Here are some overviews but you will find packages for special purposes by a google search:
+Due to the large amount of python users, a very large number of python modules are available free of charge on the web. We will use some of them already during the course (numpy, scipy, pandas, matplotlib). Here are some overviews but you will find packages for special purposes by a google search.
 
 ### Important modules
-* numpy
-* scipy
-* pandas
-* matplotlib
+* [numpy](http://www.numpy.org/)
+* [scipy](https://www.scipy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
 * [sklearn](scikit-learn.org)
-* 
+* [xarray](http://xarray.pydata.org/en/stable/)
+* [tensorflow](https://www.tensorflow.org/)
 
 ### Collections
 * [Useful modules](https://wiki.python.org/moin/UsefulModules)
@@ -45,3 +46,6 @@ Due to the large amount of python users, a very large number of python modules a
 
 ## Other Links
 * [re3data - Find research data base](https://www.re3data.org/)
+
+## Feedback
+It will be great if you give us feedback. You can use a [form](https://docs.google.com/forms/d/e/1FAIpQLScr9VroTV0nCiK_dIKyINBdcMZH-IXyAMyRf4vuXigw1RpS0Q/viewform?usp=sf_link) for this.
