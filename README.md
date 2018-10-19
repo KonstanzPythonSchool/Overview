@@ -28,6 +28,15 @@ You can proceed in learning python by simply do more python tutorials. Here is a
 ## Use python packages/modules
 Due to the large amount of python users, a very large number of python modules are available free of charge on the web. We will use some of them already during the course (numpy, scipy, pandas, matplotlib). Here are some overviews but you will find packages for special purposes by a google search:
 
+### Important modules
+* numpy
+* scipy
+* pandas
+* matplotlib
+* [sklearn](scikit-learn.org)
+* 
+
+### Collections
 * [Useful modules](https://wiki.python.org/moin/UsefulModules)
 * [Modules for chemistry](http://lukaszmentel.com/blog/awesome-python-chemistry/index.html)
 * [Modules for finance](https://www.linkedin.com/pulse/best-python-librariespackages-finance-financial-data-majid-aliakbar)
