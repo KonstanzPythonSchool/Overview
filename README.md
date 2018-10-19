@@ -29,13 +29,13 @@ You can proceed in learning python by simply do more python tutorials. Here is a
 Due to the large amount of python users, a very large number of python modules are available free of charge on the web. We will use some of them already during the course (numpy, scipy, pandas, matplotlib). Here are some overviews but you will find packages for special purposes by a google search.
 
 ### Important modules
-* [numpy](http://www.numpy.org/)
-* [scipy](https://www.scipy.org/)
-* [pandas](https://pandas.pydata.org/)
-* [matplotlib](https://matplotlib.org/)
-* [sklearn](scikit-learn.org)
-* [xarray](http://xarray.pydata.org/en/stable/)
-* [tensorflow](https://www.tensorflow.org/)
+* [numpy](http://www.numpy.org/) arrays
+* [scipy](https://www.scipy.org/) scientific functions
+* [pandas](https://pandas.pydata.org/) tables
+* [matplotlib](https://matplotlib.org/) plotting
+* [sklearn](scikit-learn.org) data analysis
+* [xarray](http://xarray.pydata.org/en/stable/) N-dimensional tables
+* [tensorflow](https://www.tensorflow.org/) machine learning 
 
 ### Collections
 * [Useful modules](https://wiki.python.org/moin/UsefulModules)
